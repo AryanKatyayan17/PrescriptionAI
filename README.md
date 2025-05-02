@@ -1,0 +1,1 @@
+Built a project which leverages the power Generative AI Tools and Agents. It searches it's database to answer queries of a client accordingly. It uses a combination of database like FAISS vector store and Neo4j graph databse.
